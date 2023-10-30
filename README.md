@@ -1,4 +1,3 @@
-
-# <a href="https://github.com/DineEase23/Portfolio"><i>Portfolio</i></a>
+# <a href="https://github.com/DineEase23/Portfolio"><i><b>Portfolio</b></i></a>
 
 This is the official portfolio
